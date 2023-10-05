@@ -1,3 +1,4 @@
+class Funcionarios{
     private double salario;
     private int cpf;
 
