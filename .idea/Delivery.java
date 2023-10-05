@@ -2,7 +2,7 @@ class Delivery{
     public boolean confirmaçãoEntrega;
 
     Delivery(String tempoEntrega, boolean confirmaçãoEntrega){
-        this.confirmaçãoEntrega = confirmaçãoEntrega;
+        this.confirmaçãoEntrega = confirmaçãoEntrega;as
     }
 
     public void confirmarEntrega(boolean confirmaçãoEntrega){
