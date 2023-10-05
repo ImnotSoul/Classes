@@ -23,6 +23,6 @@ class Funcionarios{
     }
     public void informacoes(){
         System.out.println("CPF do funcionario:"+ cpf)
-        System.out.println("Salario do funcionario é: R$"+ salario)
+        System.out.println("Salario do funcionario é: R$"+ salario)//
     }
 }
